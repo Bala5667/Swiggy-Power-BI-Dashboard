@@ -26,9 +26,9 @@ Key Stats & Insights :
 Data Storytelling :
 
 1. Swiggy's Order Trends & Revenue Growth
-Swiggy processed 1,200 orders, generating ₹65.56K in revenue with an average order price of ₹551.38.
-Biryani emerged as the top-selling food, followed by Noodles and Sushi.
-Customers prefer UPI and Debit Cards as payment methods.
-Royal Dine and Food Express are the leading contributors to revenue.
-Revenue peaked in October, indicating a seasonal spike in food orders.
-However, nearly half of the deliveries were delayed, suggesting the need for better logistics.
+2. Swiggy processed 1,200 orders, generating ₹65.56K in revenue with an average order price of ₹551.38.
+3. Biryani emerged as the top-selling food, followed by Noodles and Sushi.
+4. Customers prefer UPI and Debit Cards as payment methods.
+5. Royal Dine and Food Express are the leading contributors to revenue.
+6. Revenue peaked in October, indicating a seasonal spike in food orders.
+7. However, nearly half of the deliveries were delayed, suggesting the need for better logistics.
